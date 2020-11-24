@@ -1,4 +1,4 @@
-# derco-autoplanet-load-testing-gatling
+# bitcoin-load-testing-gatling
 ============================
 
 Here you will find some examples of how to use gatling. If you have any question we are following the documentation of [Gatling](https://gatling.io/docs/current/)
