@@ -2,5 +2,5 @@
   "jsonrpc": "1.0",
   "id":"curltest",
   "method": "generatetoaddress",
-  "params": [101, "${ADDRESS_ID_NODE_A}"]
+  "params": [${N_BLOCKS}, "${ADDRESS_ID_NODE_A}"]
 }

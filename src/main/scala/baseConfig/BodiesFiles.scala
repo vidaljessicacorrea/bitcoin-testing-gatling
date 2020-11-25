@@ -6,5 +6,6 @@ object BodiesFiles {
   val getbalance = LoadConfiguration.gatlingBodiesFolder + "getbalance.json"
   val getnewaddress = LoadConfiguration.gatlingBodiesFolder + "getnewaddress.json"
   val sendtoaddress = LoadConfiguration.gatlingBodiesFolder + "sendtoaddress.json"
+  val getunconfirmedbalance = LoadConfiguration.gatlingBodiesFolder + "getunconfirmedbalance.json"
 
 }
